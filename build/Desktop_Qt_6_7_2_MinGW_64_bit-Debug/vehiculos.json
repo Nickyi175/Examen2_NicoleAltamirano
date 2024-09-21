@@ -1,0 +1,16 @@
+[
+    {
+        "año": 2000,
+        "costoMantenimiento": 1000,
+        "kilometraje": 5000,
+        "modelo": "safsf",
+        "tipoVehiculo": "Carro"
+    },
+    {
+        "año": 2000,
+        "costoMantenimiento": 1010,
+        "kilometraje": 5050,
+        "modelo": "safsf",
+        "tipoVehiculo": "Carro"
+    }
+]
